@@ -1,10 +1,9 @@
-## Alumni Management Portal
+## Scooter Management Portal
  
-Alumni Tracking System is an online-based application that helps to tracking of college graduates. The project aims to improve current tracking procedure of college graduate and providing alumni data to college faculties. It aims to developing a web portal which will be useful for the college to monitor the alumni and for the alumni to update their current status about the job activities.
+Scooter Management System is an online-based application that helps to scooter rental business. The project aims to provide a comprehensive tool for a business to become a successful operator. The system will consisit of a web portal which will be useful monitoring the scooters and orders . It will also have the guidance for maintenance and maangement of spare parts.
 
-Create dashboard pages for students and faculty:
-- Display the last 10 job advertisements. 
-- Display 10 most recently applied job advertisements.
+Create dashboard pages for owner and staff:
+- Display all the scooter under the account or the assigned ones. 
 - Display charts.
 - Add more features as you see fit.
 
